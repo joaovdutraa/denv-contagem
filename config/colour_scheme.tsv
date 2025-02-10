@@ -1,0 +1,233 @@
+field	value	hex_color
+host_type	Human	#C5C50C
+host_type	Mosquito	#49C50C
+host	Homo sapiens	#C5C50C
+host	Aedes aegypti	#49C50C
+region	Central-West	#69C50C
+region	International	#C50C0C
+region	North	#C5880C
+region	Northeast	#0C2BC5
+region	South	#C50C49
+region	Southeast	#0CA6C5
+division	Distrito Federal	#336600
+division	Goias	#69C50C
+division	Mato Grosso	#A0E854
+division	Mato Grosso do Sul	#D4F0B8
+division	International	#C50C0C
+division	Amapa	#664400
+division	Amazonas	#C5880C
+division	Rondonia	#E8B854
+division	Tocantins	#F0DEB8
+division	Alagoas	#001166
+division	Bahia	#0926B6
+division	Paraiba	#304EE8
+division	Pernambuco	#8797EA
+division	Sergipe	#D6DBF5
+division	Santa Catarina	#C50C49
+division	Minas Gerais	#037187
+division	Rio de Janeiro	#30CAE8
+division	Sao Paulo	#B8E7F0
+location		#001166
+location	Brasilia	#387001
+location	Aparecida de Goiania	#3E7A01
+location	Caldas Novas	#438402
+location	Goiania	#498E03
+location	Amambai	#4E9705
+location	Angelica	#54A106
+location	Aparecida do Taboado	#59AA07
+location	Bandeirantes	#5FB409
+location	Bataguassu	#64BD0B
+location	Campo Grande	#6AC60C
+location	Cassilandia	#70CF0E
+location	Chapadao do Sul	#75D711
+location	Corguinho	#7BE013
+location	Coronel Sapucaia	#80E815
+location	Coxim	#86E91F
+location	Deodapolis	#8BE92A
+location	Douradina	#90E836
+location	Dourados	#96E841
+location	Fatima do Sul	#9BE84B
+location	Itapora	#A1E856
+location	Ivinhema	#A6E861
+location	Jardim	#ABE96B
+location	Mundo Novo	#B1E976
+location	Navirai	#B6EA80
+location	Paraiso das Aguas	#BBEB8A
+location	Paranhos	#C1EB94
+location	Ribas do Rio Pardo	#C6EC9E
+location	Rio Verde de Mato Grosso	#CBEEA7
+location	Sao Gabriel do Oeste	#D1EFB1
+location	Sidrolandia	#D6F0BA
+location	Tacuru	#DBF2C4
+location	Terenos	#E1F3CD
+location	Tres Lagoas	#E6F5D6
+location	International	#C50C0C
+location	Manaus	#785001
+location	Tefe	#895C03
+location	Cerejeiras	#996805
+location	Pimenta Bueno	#AA7407
+location	Aguiarnopolis	#BA800A
+location	Araguaina	#C98B0D
+location	Colinas do Tocantins	#D99711
+location	Darcinopolis	#E7A215
+location	Dianopolis	#E9A926
+location	Duere	#E8AF3A
+location	Itapora do Tocantins	#E8B54D
+location	Nazare	#E8BC5F
+location	Palmas	#E9C271
+location	Porto Nacional	#EAC983
+location	Rio dos Bios	#EBCF94
+location	Sao Bento do Tocantins	#EDD6A5
+location	Tocantinia	#EFDDB6
+location	Tocantinopolis	#F2E4C6
+location	Wanderlandia	#F5EBD6
+location	Barreiras	#051E9C
+location	Coracao de Maria	#0E2ECF
+location	Feira de Santana	#304EE8
+location	Campina Grande	#6B80E9
+location	Custodia	#A3AFED
+location	Aracaju	#D6DBF5
+location	Balneario Camburiu	#660022
+location	Chapeco	#A7073C
+location	Florianopolis	#E21357
+location	Joinville	#E85484
+location	Leges	#EC98B3
+location	Seara	#F5D6E0
+location	Belo Horizonte	#005566
+location	Brasilia de Minas	#005768
+location	Conselheiro Lafaiete	#00596B
+location	Contagem	#005B6D
+location	Esmeraldas	#015D70
+location	Jaboticatubas	#015F72
+location	Nova Veneza	#016175
+location	Piedade dos Gerais	#016377
+location	Ribeirao das Neves	#016579
+location	Sao Francisco	#02687C
+location	Sarzedo	#026A7E
+location	Varzelandia	#026C81
+location	Guapimirim	#026E83
+location	Nova Iguacu	#037085
+location	Resende	#037288
+location	Rio de Janeiro	#03748A
+location	Sapucaia	#03768C
+location	Varre-Sai	#04788F
+location	Alambari	#047A91
+location	Alfredo Marcondes	#047C93
+location	Alto Alegre	#047E96
+location	Americana	#058098
+location	Andradina	#05829A
+location	Aracatuba	#05849D
+location	Araraquara	#06859F
+location	Araras	#0687A1
+location	Bady Bassitt	#0689A3
+location	Balsamo	#078BA6
+location	Batatais	#078DA8
+location	Bauru	#078FAA
+location	Bebedouro	#0891AC
+location	Buri	#0893AF
+location	Buritama	#0895B1
+location	Cajobi	#0997B3
+location	Campinas	#0999B5
+location	Capao Bonito	#0A9BB8
+location	Capivari	#0A9DBA
+location	Caraguatatuba	#0B9FBC
+location	Carapicuiba	#0BA0BE
+location	Castilho	#0BA2C0
+location	Catanduva	#0CA4C2
+location	Chavantes	#0CA6C5
+location	Conchal	#0DA8C7
+location	Cordeiropolis	#0DAAC9
+location	Cubatao	#0EACCB
+location	Descalvado	#0EAECD
+location	Diadema	#0FB0CF
+location	Dracena	#0FB1D1
+location	Duartina	#10B3D3
+location	Espirito Santo do Turvo	#10B5D6
+location	Fernandopolis	#11B7D8
+location	Ferraz de Vasconcelos	#11B9DA
+location	Francisco Morato	#12BBDC
+location	Franco da Rocha	#12BCDE
+location	Gabriel Monteiro	#13BEE0
+location	Galia	#13C0E2
+location	Garca	#14C2E4
+location	Guaimbe	#14C4E6
+location	Guaira	#15C5E8
+location	Guaruja	#16C7EA
+location	Guarulhos	#19C7E9
+location	Herculandia	#1CC7E9
+location	Ilha Solteira	#1EC8E9
+location	Ilhabela	#21C8E9
+location	Imbituba	#24C9E9
+location	Ipaussu	#27C9E9
+location	Itai	#29C9E9
+location	Itajobi	#2CCAE9
+location	Itanhaem	#2FCAE9
+location	Itapetininga	#31CAE8
+location	Itapeva	#34CBE8
+location	Itapolis	#37CBE8
+location	Itaquaquecetuba	#39CCE8
+location	Itarare	#3CCCE8
+location	Itirepina	#3FCCE8
+location	Itu	#41CDE8
+location	Ituverava	#44CDE8
+location	Jau	#47CEE8
+location	Jundiai	#49CEE8
+location	Laranjal Paulista	#4CCFE8
+location	Limeira	#4ECFE8
+location	Lins	#51CFE8
+location	Louveira	#53D0E8
+location	Mairipora	#56D0E8
+location	Marilia	#59D1E8
+location	Matao	#5BD1E8
+location	Maua	#5ED2E8
+location	Miracatu	#60D2E8
+location	Mogi Guacu	#63D3E8
+location	Mogi Mirin	#65D3E9
+location	Monte Alto	#68D4E9
+location	Murutinga do Sul	#6AD4E9
+location	Nazare Paulista	#6DD5E9
+location	Nova Granada	#6FD5E9
+location	Nova Odessa	#72D6E9
+location	Olimpia	#74D6E9
+location	Orlandia	#77D7E9
+location	Osasco	#79D7E9
+location	Osvaldo Cruz	#7CD8EA
+location	Ourinhos	#7ED8EA
+location	Panorama	#81D9EA
+location	Paulinia	#83D9EA
+location	Peruibe	#86DAEA
+location	Piracicaba	#88DAEA
+location	Pirassununga	#8ADBEB
+location	Porto Feliz	#8DDCEB
+location	Praia Grande	#8FDCEB
+location	Presidente Prudente	#92DDEB
+location	Quintana	#94DDEB
+location	Ribeirao Preto	#96DEEC
+location	Rio Claro	#99DEEC
+location	Rosana	#9BDFEC
+location	Salto Grande	#9DE0EC
+location	Santa Barbara D Oeste	#A0E0ED
+location	Santa Barbara D''Oeste	#A2E1ED
+location	Santo andre	#A5E1ED
+location	Santos	#A7E2ED
+location	Sao Caetano do Sul	#A9E3EE
+location	Sao Joaquim da Barra	#ABE3EE
+location	Sao Jose do Rio Preto	#AEE4EE
+location	Sao Jose dos Campos	#B0E4EF
+location	Sao Paulo	#B2E5EF
+location	Sao Pedro	#B5E6EF
+location	Sao Vicente	#B7E6F0
+location	Sorocaba	#B9E7F0
+location	Taquaritinga	#BBE8F0
+location	Taruma	#BEE8F1
+location	Taubate	#C0E9F1
+location	Tiete	#C2EAF1
+location	Tremembe	#C4EAF2
+location	Tupa	#C7EBF2
+location	Ubarana	#C9ECF3
+location	Urania	#CBECF3
+location	Val Paraiso	#CDEDF3
+location	Valparaiso	#CFEEF4
+location	Viradouro	#D2EFF4
+location	Votuporanga	#D4EFF5
+location	Zacarias	#D6F0F5
